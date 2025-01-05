@@ -1,10 +1,4 @@
-'''
-CODER ZERO
-connect with me at: https://www.youtube.com/channel/UCKipQAvBc7CWZaPib4y8Ajg
-How to train custom yolov5: https://youtu.be/12UoOlsRwh8
-DATASET: 1) https://www.kaggle.com/datasets/deepakat002/indian-vehicle-number-plate-yolo-annotation
-         2) https://www.kaggle.com/datasets/elysian01/car-number-plate-detection
-'''
+
 ### importing required libraries
 import torch
 import cv2
